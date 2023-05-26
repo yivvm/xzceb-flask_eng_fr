@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: en2fr_fr2en_translation
    random-random: true
    memory: 64M
